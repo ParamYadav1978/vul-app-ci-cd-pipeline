@@ -1,6 +1,2 @@
-flask>=3.0.0
-requests>=2.32.0
-
-
-
-
+flask==1.0
+requests==2.19.1
